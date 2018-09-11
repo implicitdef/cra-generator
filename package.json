@@ -1,0 +1,18 @@
+{
+  "name": "cra-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/implicitdef/cra-generator.git",
+  "author": "implicitdef <implicitdef@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true,
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "command-line-usage": "^5.0.5",
+    "csv-parse": "^3.0.0",
+    "moment": "^2.22.2"
+  }
+}
